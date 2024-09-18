@@ -13,6 +13,7 @@ Esta atividade demonstra como foi criada uma DLL em C++ e utilizada em um script
 - Visual Studio 2022
 - Visual Studio Code 
 - Python 3.12.6
+- C++ 13.2.0
 
 ## Compilação da DLL
 
